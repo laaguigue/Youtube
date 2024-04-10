@@ -11,13 +11,13 @@
             margin: 0;
         }
         .navbar-custom {
-            background-color: #cc0000; /* YouTube Red */
+            background-color: #cc0000;
         }
         .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
             color: white;
         }
         .sidebar {
-            background-color: #f9f9f9; /* Lighter Gray */
+            background-color: #f9f9f9;
             padding-top: 20px;
         }
         .main-content {
@@ -26,12 +26,12 @@
         .video-item {
             margin-bottom: 20px;
             padding: 10px;
-            background-color: #fff; /* White */
-            border: 1px solid #ddd; /* Light Gray */
+            background-color: #fff;
+            border: 1px solid #ddd;
             border-radius: 4px;
         }
         .video-title {
-            color: #cc0000; /* YouTube Red */
+            color: #cc0000;
         }
     </style>
 </head>
